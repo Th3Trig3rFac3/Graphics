@@ -1,0 +1,14 @@
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\RAZER\Desktop\Egyetem\bevgraf gyak\AXAF1W_Polygon_Vágás_Beadandó\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
